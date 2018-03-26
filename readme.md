@@ -1,6 +1,8 @@
 # Bibliapp
 
 ![](https://github.com/yolangelica/biblia-app/blob/master/img/biblia-logo.png)
+
+
 Con esta aplicación el usuario logrará tener orientación, inspiración o solamente disfrutar de su lectura en cualquier momento del día, mientras viaja, en sus descanzos en el trabajo o incluso durante los cultos o si necesita compartirlo con alguien.Siempre estará disponible el versículo que necesite a sólo un par de click, además de lograr guardar o marcar el capitulo o versiculo que necesite.
 Ahora tendrá a su disposición y a todas horas la palabra que necesite, sin tener peso extra en su bolso.
 
@@ -47,8 +49,8 @@ Se realiza una planificación que consta de:
 
 Para descubrir la  problemática, se buscan los puntos de dolor del usuario, mediante la lectura de los comentarios que aparecen en las descargas, así también se valida que tan utilizada es esta app y en qué momentos la utilizan.
 
-![](src/img/coment.png)
-![](src/img/comet2.png)
+![](https://github.com/yolangelica/biblia-app/blob/master/img/coment.png)
+![](https://github.com/yolangelica/biblia-app/blob/master/img/comet2.png)
 
 Luego de descargar y revisar la app, se testea  con las mismas integrantes del equipo, sólo para optimizar el tiempo.
 Se les entrega un contexto: “Tienes tu biblia descargada en tu celular y necesitas, ahora que estás en tu tiempo de descanso, inspiración para continuar con tus tareas” se le dan tareas y se graba el proceso.
@@ -72,8 +74,8 @@ Ejemplo:
 Problemas con el buscador= color verde.
 Problemas con el tamaño texto= color azul.
 
-![](src/img/test.jpg)
-![](src/img/test2.jpg)
+![](https://github.com/yolangelica/biblia-app/blob/master/img/test.jpg)
+![](https://github.com/yolangelica/biblia-app/blob/master/img/test2.jpg)
 
 
 **Resumen Investigación:** La app parecía simple, sin embargo las dificultades aparecen en el buscador que no entrega resultados, o también en las  etiquetas del menú, o la búsqueda de versículos en varios pasos, lo dificultan.
