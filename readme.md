@@ -1,5 +1,6 @@
 # Bibliapp
 
+![](https://github.com/yolangelica/biblia-app/blob/master/img/biblia-logo.png)
 Con esta aplicación el usuario logrará tener orientación, inspiración o solamente disfrutar de su lectura en cualquier momento del día, mientras viaja, en sus descanzos en el trabajo o incluso durante los cultos o si necesita compartirlo con alguien.Siempre estará disponible el versículo que necesite a sólo un par de click, además de lograr guardar o marcar el capitulo o versiculo que necesite.
 Ahora tendrá a su disposición y a todas horas la palabra que necesite, sin tener peso extra en su bolso.
 
