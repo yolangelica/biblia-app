@@ -34,7 +34,7 @@ Se realiza una planificación que consta de:
 4-Testeo: se testea, en razón del tiempo, con usuarios presentes en el mismo lugar, luego se valida con 2 usuarios cristianos.
 5-Se distribuyen tareas para la realización del producto en el equipo.
 **
-### INVESTIGACIÓN
+## INVESTIGACIÓN
 
 
 -Se elige una de las biblias más descargadas.
@@ -63,7 +63,7 @@ estos versículos al revisarlos no se pueden eliminar inmediatamente, solo borra
 5- Tamaño texto: para modificar texto, todos acceden sin dificultad, este problema aparece al momento de dar el máximo de tamaño y la pantalla se desplaza para el lado, realizando el movimiento de cambio de pantalla, no permite el máximo de texto de forma simple e inmediata.
  
  
-### SÍNTESIS
+## SÍNTESIS
 Para la síntesis utilicé post it, separé a los usuarios testeados y bajo su nombre  identifiqué cada dificultad que tuvieron en el test de usabilidad de la app, luego con stickers de colores, se identificaron con un color en común cada problemática similar.
 Ejemplo:
 Problemas con el buscador= color verde.
@@ -80,29 +80,29 @@ Problemas con el tamaño texto= color azul.
 ### Producto Mínimo viable
 Por esto elegimos desarrollar la mejora en la búsqueda simple de versículos, en menos pasos, mejorando la etiqueta “tabla de contenidos” por “biblia”.
 
-![](src/img/menu.png)
+![](https://github.com/yolangelica/biblia-app/blob/master/img/menu.png)
 
 
  
-### 3-IDEACIÓN
+## 3-IDEACIÓN
 
 Se realiza mapa de contenidos y posible flujo para lograr el objetivo, (basados en la app a mejorar).
 
-![](src/img/1.jpg)
-![](src/img/arq.jpg)
+![](https://github.com/yolangelica/biblia-app/blob/master/img/1.jpg)
+![](https://github.com/yolangelica/biblia-app/blob/master/img/arq.jpg)
 
 
  Se les presenta al equipo el mapa de contenido y se les explica la distribución, con este conocimiento entregado, se le entrega una hoja a cada integrante del equipo y se les pide crear sketch rápidos con posibles soluciones, (siguiendo metodología Scrum) en 15 minutos.
 Luego cada una explica su sketch, si siente que faltó algo o no quedó clara una idea se pega un post-it con esta información y finalmente se entregan 3 stickers a cada una para votar por las soluciones que les parecen mejores.
 Estos son los resultados del proceso
 
-![](src/img/sketch.jpg)
+![](https://github.com/yolangelica/biblia-app/blob/master/img/sketch.jpg)
 
 Se crea el siguiente Sketch
 Se mejora el Sketch para testear
 
-![](src/img/sket.jpg)
-![](src/img/skett.jpg)
+![](https://github.com/yolangelica/biblia-app/blob/master/img/sket.jpg)
+![](https://github.com/yolangelica/biblia-app/blob/master/img/skett.jpg)
 
 El que tendrá función sólo en la busqueda por versículos.
 
