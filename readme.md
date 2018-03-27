@@ -9,22 +9,15 @@ Ahora tendrá a su disposición y a todas horas la palabra que necesite, sin ten
 -Disfruta de contenidos con reflexiones poderosas acerca de las escrituras a través de la búsqueda de versículos. 
 -Guarde sus versículos con marcadores y retome sus lecturas más tarde.
 
-
-
 Desarrollado para: [Laboratoria](http://www.laboratoria.la/)
 
-
-Proceso
-**
-
+**Proceso**
 Se plantea el siguiente reto: re-diseñar e impleméntar una versión mejorada de la Biblia, en 36 horas.
 Equipo: 3 Front-end + 1 Ux (Yolanda Rayman).
 
 a continuación describiré el proceso Ux que guié para llegar al prototipo.
 
-
-
-Se utilizó la modalidad ágil para  para trabajar colaborativamente, en equipo, y obtener el mejor resultado posible ante la limitación de tiempo.
+Se utilizó la modalidad ágil para  para trabajar colaborativamente en equipo y obtener el mejor resultado posible ante la limitación de tiempo.(36 horas)
 
 Se realiza una planificación que consta de:
 
@@ -33,9 +26,8 @@ Se realiza una planificación que consta de:
 3-ideación: revisión de contenidos, realización de sketch y propuestas de forma individual.
 4-Testeo: se testea, en razón del tiempo, con usuarios presentes en el mismo lugar, luego se valida con 2 usuarios cristianos.
 5-Se distribuyen tareas para la realización del producto en el equipo.
-**
-## INVESTIGACIÓN
 
+## INVESTIGACIÓN
 
 -Se elige una de las biblias más descargadas.
 -Investigación sobre tipos de biblias, según religión.
@@ -55,7 +47,8 @@ las tareas solicitadas:
 3- Revisa los versículos guardados.
 4- Elimina el versículo.
 5-Cambia el tamaño del texto, hazlo más grande y vuelve a tu lectura Génesis.
-#### Resultados:
+
+**Resultados:**
 1- Todas van al buscador primero, pero este no arroja ningún resultado.
 2- El título “TABLA DE CONTENIDO” no se relaciona inmediatamente con los libros bíblicos y sus capítulos.Se valida si es confuso este título más adelante, testeando a 2 personas cristianas, quienes sugieren el título de “Libros” o simplemente “Biblia” como aparece en sus aplicaciones personales. 
 3- En cuanto a los versículos, pueden guardar sólo capítulos, pero parece confuso ya que al apretar la etiqueta, además aparece un texto que tiene la función de guardar o borrar, muy cercanos.
@@ -118,14 +111,14 @@ Para ver el avance de cada tarea, se realizan retrospectivas cada 2 horas.
 -Crear Readme registrando proceso(Yolanda)día 2
  
 
- ###### Dificultades en el proceso
+ **Dificultades en el proceso**
  - Problemas al encontrar API
  - Api utilizada está en Inglés.
  -Breve tiempo de entrega.
  -Por Limitación de tiempo  se cambia wireframe, en pantalla de busqueda de versiculos.
 
 
- ###### Solución
+ **Solución**
  -2 personas del equipo buscan API
  -Se utilizará api en inglés, pensando en lograr cambiar idioma más adelante.
 -Distribución de trabajo
@@ -134,7 +127,7 @@ Para ver el avance de cada tarea, se realizan retrospectivas cada 2 horas.
 Se presenta el segundo prototipo finalizadas las 36 horas de Hackaton Laboratoria.
 
  
- ##PROTOTIPADO
+ ## PROTOTIPADO
 
 - Herramienta: marvelapp
 
