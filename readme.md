@@ -5,9 +5,9 @@ Con esta aplicación el usuario logrará tener inspiración o solamente disfruta
 ![biblia-logo](https://user-images.githubusercontent.com/32304271/38070591-1edaa7a4-32f3-11e8-97c9-5202b50ff90f.png)
 
 Ahora tendrá a su disposición y a todas horas la palabra que necesite, sin tener peso extra en su bolso.
--Interfaz amigable al usuario y de rápido acceso a los libros, búsqueda simple.
--Disfruta de contenidos con reflexiones poderosas acerca de las escrituras a través de la búsqueda de versículos. 
--Guarde sus versículos con marcadores y retome sus lecturas más tarde.
+- Interfaz amigable al usuario y de rápido acceso a los libros, búsqueda simple.
+- Disfruta de contenidos con reflexiones poderosas acerca de las escrituras a través de la búsqueda de versículos. 
+- Guarde sus versículos con marcadores y retome sus lecturas más tarde.
 
 Desarrollado para: [Laboratoria](http://www.laboratoria.la/)
 
@@ -31,9 +31,9 @@ Se realiza una planificación que consta de:
 
 ## INVESTIGACIÓN
 
--Se elige una de las biblias más descargadas.
--Investigación sobre tipos de biblias, según religión.
--Investigación sobre contenido de biblia, su distribución, lenguaje de usuarios según religión.
+- Se elige una de las biblias más descargadas.
+- Investigación sobre tipos de biblias, según religión.
+- Investigación sobre contenido de biblia, su distribución, lenguaje de usuarios según religión.
 
 
 Para descubrir la  problemática, se buscan los puntos de dolor del usuario, mediante la lectura de los comentarios que aparecen en las descargas, así también se valida que tan utilizada es esta app y en qué momentos la utilizan.
@@ -45,19 +45,19 @@ Luego de descargar y revisar la app, se testea  con las mismas integrantes del e
 Se les entrega un contexto: “Tienes tu biblia descargada en tu celular y necesitas, ahora que estás en tu tiempo de descanso, inspiración para continuar con tus tareas” se le dan tareas y se graba el proceso.
 las tareas solicitadas:
 
-1-Busca el libro Génesis, capítulo 1, versículo 16.
-2-Guarda éste versículo.
-3- Revisa los versículos guardados.
-4- Elimina el versículo.
-5-Cambia el tamaño del texto, hazlo más grande y vuelve a tu lectura Génesis.
+1 Busca el libro Génesis, capítulo 1, versículo 16.
+2 Guarda éste versículo.
+3 Revisa los versículos guardados.
+4 Elimina el versículo.
+5 Cambia el tamaño del texto, hazlo más grande y vuelve a tu lectura Génesis.
 
 **Resultados:**
 
-1- Todas van al buscador primero, pero este no arroja ningún resultado.
-2- El título “TABLA DE CONTENIDO” no se relaciona inmediatamente con los libros bíblicos y sus capítulos.Se valida si es confuso este título más adelante, testeando a 2 personas cristianas, quienes sugieren el título de “Libros” o simplemente “Biblia” como aparece en sus aplicaciones personales. 
-3- En cuanto a los versículos, pueden guardar sólo capítulos, pero parece confuso ya que al apretar la etiqueta, además aparece un texto que tiene la función de guardar o borrar, muy cercanos.
+- Todas van al buscador primero, pero este no arroja ningún resultado.
+- El título “TABLA DE CONTENIDO” no se relaciona inmediatamente con los libros bíblicos y sus capítulos.Se valida si es confuso este título más adelante, testeando a 2 personas cristianas, quienes sugieren el título de “Libros” o simplemente “Biblia” como aparece en sus aplicaciones personales. 
+- En cuanto a los versículos, pueden guardar sólo capítulos, pero parece confuso ya que al apretar la etiqueta, además aparece un texto que tiene la función de guardar o borrar, muy cercanos.
 estos versículos al revisarlos no se pueden eliminar inmediatamente, solo borrar el texto a través del teclado letra a letra.
-5- Tamaño texto: para modificar texto, todos acceden sin dificultad, este problema aparece al momento de dar el máximo de tamaño y la pantalla se desplaza para el lado, realizando el movimiento de cambio de pantalla, no permite el máximo de texto de forma simple e inmediata.
+- Tamaño texto: para modificar texto, todos acceden sin dificultad, este problema aparece al momento de dar el máximo de tamaño y la pantalla se desplaza para el lado, realizando el movimiento de cambio de pantalla, no permite el máximo de texto de forma simple e inmediata.
  
  
 ## SÍNTESIS
@@ -110,24 +110,24 @@ Para ver el avance de cada tarea, se realizan retrospectivas cada 2 horas.
 
 ##### Tareas Principales:
 
--Buscar Api Biblia y utilizarla (massiel y Vanessa )día 1-2
--Investigar React y crear componentes (Vanessa-Mariajosé) día 1-2
--Firebase (Vanessa) día 2
--Crear Readme registrando proceso(Yolanda)día 2
+- Buscar Api Biblia y utilizarla (massiel y Vanessa )día 1-2
+- Investigar React y crear componentes (Vanessa-Mariajosé) día 1-2
+- Firebase (Vanessa) día 2
+- Crear Readme registrando proceso(Yolanda)día 2
  
 
  **Dificultades en el proceso**
  - Problemas al encontrar API
  - Api utilizada está en Inglés.
- -Breve tiempo de entrega.
- -Por Limitación de tiempo  se cambia wireframe, en pantalla de busqueda de versiculos.
+ - Breve tiempo de entrega.
+ - Por Limitación de tiempo  se cambia wireframe, en pantalla de busqueda de versiculos.
 
 
  **Solución**
- -2 personas del equipo buscan API
- -Se utilizará api en inglés, pensando en lograr cambiar idioma más adelante.
--Distribución de trabajo
--Se propone nueva pantalla de busqueda a Front-end que puedan llevar a cabo en el tiempo estipulado, se crea 2°prototipo.
+- 2 personas del equipo buscan API
+- Se utilizará api en inglés, pensando en lograr cambiar idioma más adelante.
+- Distribución de trabajo
+- Se propone nueva pantalla de busqueda a Front-end que puedan llevar a cabo en el tiempo estipulado, se crea 2°prototipo.
 
 Se presenta el segundo prototipo finalizadas las 36 horas de Hackaton Laboratoria.
 
