@@ -144,6 +144,6 @@ Prototipo 2: Se propone por Front modificar la busqueda, según API, se crea pro
 
 Según lo descubierto se identifican distintas opciones para mejorar en la aplicación Biblia reina valera 1960, nos enfocamos en la búsqueda simplificada de textos bíblicos , reduciendo 3 pasos en sólo una pantalla.
 Se acuerda con el equipo front-end, el que está involucrado en todo el proceso, sobre el mínimo viable que pueden llevar a cabo en el tiempo propuesto y a partir de esto se crean sketch en conjunto con el equipo, se testean y realizan 2 prototipos, el primero es desechado ya que el equipo no cree lograr alcanzar este resultado y el segundo se propone según lo que indica el equipo, no perdiendo el foco en el objetivo y necesidades del usuario.
-Es importante siempre trabajar en conjunto, mantener la comunicación y honestidad sobre las capacidades y limitaciones para buscar soluciones rápidas ante eventualidades que puedan surgir en el camino, también estar atenta a su desarrollo, no abandonando como Ux la realización del proceso, para dar solución a estas problemáticas que puedan aparecer en el momento indicado.
+Es importante siempre trabajar en conjunto, mantener la comunicación y honestidad sobre las capacidades y limitaciones para buscar soluciones rápidas ante eventualidades que puedan surgir en el camino, también estar atenta a su desarrollo, no abandonando como Ux la realización del proceso, para dar solución a estas problemáticas que puedan aparecer.
 
 
